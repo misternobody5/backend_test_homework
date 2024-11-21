@@ -18,6 +18,3 @@ def test_program():
             'Исправьте в нем ошибки:\n'
             f'{e}'
         )
-
-
-test_program()
